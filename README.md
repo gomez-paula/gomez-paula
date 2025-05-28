@@ -1,5 +1,5 @@
 # Hi, I'm Paula 👋
-## Talent Intelligence | People Analytics | Talent Acquisition Specialist
+## Sourcing & Talent Intelligence | People Analytics
 ### About me
 💙 Loving Talent Acquisition since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  
 
