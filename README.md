@@ -8,8 +8,8 @@ Talent Acquisition Specialist with over 10 years of expertise in full-cycle recr
 ### Talent Intelligence Projects
 - [Driving Diversity through Talent Intelligence: A Data-Informed Approach to Gender Representation in Tech](https://docs.google.com/document/d/1w-IQxTihZBimoJW6j86l0L1ORVRA7FWt15yaw3RVJQw/edit?usp=sharing) (FORM3 2022-2023)  
 - [Streamlined recruitment workflows: increasing tech task return rates by 42%](https://docs.google.com/document/d/173A1kyU-KNCgz_DiAFmwQddGfN5tSwE771fRm8vOLA8/edit?usp=sharing) (FORM3 2022)  
-- Improving candidate experience through better survey insights (MEWS 2024)  
-- Reducing time to hire: Revamping the interview process (MEWS 2024)  
+- [Improving candidate experience through better survey insights](https://docs.google.com/document/d/1TOvre6aiDcMHgLR8NTQvSMrZnnaY5_5DLttR79msBbU/edit?usp=sharing) (MEWS 2024)  
+- [Reducing time to hire by 30%: Revamping the interview process](https://docs.google.com/document/d/1NuPtSH7qGwoBiV93Nv_V2ETCbWawL7FwmwKbFyCsQ-g/edit?usp=sharing) (MEWS 2024)  
 
 ### Paula's Values
 **Q**uality ⭐  
