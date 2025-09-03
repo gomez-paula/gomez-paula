@@ -6,7 +6,7 @@
 Talent Acquisition Specialist with over 10 years of expertise in full-cycle recruiting across international environments. Since 2021, I have shifted my focus to Talent Analytics and Talent Intelligence, using data-driven insights to optimize recruitment strategies, enhance selection processes, reduce attrition, and advance DEI objectives. **YES**, I can say I love challenges!  
 
 ### Talent Intelligence Projects
-- IN PROGRESS: Predicting Employee Success before hiring (Final MSc Project: People Analytics)
+- IN PROGRESS: Predicting Employee Success before hiring: ML models and clustering
 - [Driving Diversity through Talent Intelligence: A Data-Informed Approach to Gender Representation in Tech](https://docs.google.com/document/d/1w-IQxTihZBimoJW6j86l0L1ORVRA7FWt15yaw3RVJQw/edit?usp=sharing) (FORM3 2022-2023)  
 - [Streamlined recruitment workflows: increasing tech task return rates by 42%](https://docs.google.com/document/d/173A1kyU-KNCgz_DiAFmwQddGfN5tSwE771fRm8vOLA8/edit?usp=sharing) (FORM3 2022)  
 - [Improving candidate experience through better survey insights](https://docs.google.com/document/d/1TOvre6aiDcMHgLR8NTQvSMrZnnaY5_5DLttR79msBbU/edit?usp=sharing) (MEWS 2024)  
