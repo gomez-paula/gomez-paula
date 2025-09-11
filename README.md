@@ -1,7 +1,9 @@
 # Hi, I'm Paula 👋
 ## People Analytics & Talent Intelligence Professional
 ### Personal Profile
-Early-career Talent Intelligence and People Analytics professional with 10+ years of Talent Acquisition experience in international tech companies. Currently completing an MSc in People Analytics, building technical expertise in SQL, Python, Knime, and Power BI. Skilled in sourcing, funnel analysis, diversity reporting, and workforce metrics. Bringing a strong recruiter’s lens to data storytelling — with a focus on improving hiring quality, time-to-fill, candidate experience, and DEI outcomes through strategic use of talent data. 
+Early-career Talent Intelligence and People Analytics professional with 10+ years of Talent Acquisition experience in international tech companies. Currently completing an MSc in People Analytics, building technical expertise in SQL, Python, Knime, and Power BI. Skilled in sourcing, funnel analysis, diversity reporting, and workforce metrics. 
+
+Bringing a strong recruiter’s lens to data storytelling — with a focus on improving hiring quality, time-to-fill, candidate experience, and DEI outcomes through strategic use of talent data. 
 
 ### Key Skills
 - Talent Market Mapping 
